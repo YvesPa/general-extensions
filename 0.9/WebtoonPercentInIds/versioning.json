@@ -1,0 +1,231 @@
+{
+  "buildTime": "2025-03-14T14:31:56.364Z",
+  "builtWith": {
+    "toolchain": "1.0.0-alpha.41",
+    "types": "1.0.0-alpha.41"
+  },
+  "repository": {
+    "name": "General Extensions (0.9)",
+    "description": "Paperback extensions for websites with unique, non-generic themes. Maintained by the Paperback Community."
+  },
+  "sources": [
+    {
+      "name": "Asura Scans",
+      "description": "Extension that pulls content from asuracomic.net.",
+      "version": "1.0.0-alpha.5",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        4,
+        32,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "nyzzik",
+          "github": "https://github.com/nyzzik"
+        }
+      ],
+      "id": "AsuraScans"
+    },
+    {
+      "name": "ComicK",
+      "description": "Extension that pulls content from comick.io.",
+      "version": "1.0.0-alpha.5",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        4,
+        1,
+        64,
+        32
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Paperback Community",
+          "website": "https://github.com/paperback-community"
+        }
+      ],
+      "id": "ComicK"
+    },
+    {
+      "name": "MangaDex",
+      "description": "Extension that pulls content from mangadex.org.",
+      "version": "1.0.0-alpha.7",
+      "icon": "icon.png",
+      "languages": "multi",
+      "contentRating": "SAFE",
+      "capabilities": [
+        8,
+        1,
+        4,
+        64,
+        32
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Paperback Community",
+          "website": "https://github.com/paperback-community"
+        }
+      ],
+      "id": "MangaDex"
+    },
+    {
+      "name": "MangaFire",
+      "description": "Extension that pulls content from mangafire.to.",
+      "version": "1.0.0-alpha.4",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        4,
+        64,
+        1
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Karrot"
+        },
+        {
+          "name": "nyzzik"
+        }
+      ],
+      "id": "MangaFire"
+    },
+    {
+      "name": "MangaKatana",
+      "description": "Extension that pulls content from mangakatana.com.",
+      "version": "1.0.0-alpha.4",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "MATURE",
+      "capabilities": [
+        4,
+        64,
+        1
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Egwau"
+        }
+      ],
+      "id": "MangaKatana"
+    },
+    {
+      "name": "MangaPlus",
+      "description": "Extension that pulls content from mangaplus.shueisha.co.jp.",
+      "version": "1.0.0-alpha.3",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        4,
+        32,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Yves Pa",
+          "github": "https://github.com/YvesPa"
+        }
+      ],
+      "id": "MangaPlus"
+    },
+    {
+      "name": "Mgeko",
+      "description": "Extension that pulls content from mgeko.cc.",
+      "version": "1.0.0-alpha.5",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        16,
+        4,
+        1,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Paperback Community",
+          "website": "https://github.com/paperback-community"
+        }
+      ],
+      "id": "Mgeko"
+    },
+    {
+      "name": "ReaperScans",
+      "description": "Extension that pulls content from reaperscans.com.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        4,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "nyzzik",
+          "github": "https://github.com/nyzzik"
+        }
+      ],
+      "id": "ReaperScans"
+    },
+    {
+      "name": "Webtoon",
+      "description": "Extension that pulls content from webtoons.com",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "languages": "multi",
+      "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        4,
+        32,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Yves Pa",
+          "github": "https://github.com/YvesPa"
+        }
+      ],
+      "id": "Webtoon"
+    },
+    {
+      "name": "Weeb Central",
+      "description": "Extension that pulls content from weebcentral.com.",
+      "version": "1.0.0-alpha.3",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        4,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Paperback Community",
+          "website": "https://github.com/paperback-community"
+        }
+      ],
+      "id": "WeebCentral"
+    }
+  ]
+}
